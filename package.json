@@ -1,0 +1,7 @@
+{
+  "name": "dr-s-pawars-homoeopathy",
+  "version": "6.0.0",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": { "nodemailer": "^6.10.1" }
+}
