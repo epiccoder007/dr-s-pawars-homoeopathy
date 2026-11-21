@@ -10,3 +10,4 @@ See `VERCEL_DEPLOYMENT_GUIDE.md`. The project root includes `package.json` and `
 
 ## Important
 This is a production candidate, not a live-verified deployment. The clinic must add its Gmail App Password in Vercel, connect its real domain, complete a live email test, verify Google Search Console/Business Profile, and manually confirm Google Meet appointments. No secret is included in this package.
+V6 deployment trigger - November 2026
